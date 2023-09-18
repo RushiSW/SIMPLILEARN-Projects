@@ -1,1 +1,1 @@
-# SIMPLILEARN-Projects
+# SIMPLILEARN_Capstone_Projects
